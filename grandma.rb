@@ -6,6 +6,7 @@ def speak_to_grandma(phrase)
     "I LOVE YOU TOO PUMPKIN!"
   elsif !phrase.upcase
     "HUH?! SPEAK UP, SONNY!"
+  end 
 end
 
 boop_beep = "HELLO"

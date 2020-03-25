@@ -6,12 +6,16 @@ def speak_to_grandma(phrase)
     "I LOVE YOU TOO PUMPKIN!"
   elsif !phrase.upcase
     "HUH?! SPEAK UP, SONNY!"
-  end 
+  end
 end
 
 boop_beep = "HELLO"
 boob_beep = "hello"
+eh = "I LOVE YOU GRANDMA!"
+
 puts speak_to_grandma(boop_beep)
+puts speak_to_grandma(boob_beep)
+puts speak_to_grandma(eh)
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).

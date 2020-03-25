@@ -8,6 +8,9 @@ def speak_to_grandma(phrase)
     "HUH?! SPEAK UP, SONNY!"
 end
 
+boop_beep = "HELLO"
+boob_beep = "hello"
+puts speak_to_grandma("HELLO")
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).

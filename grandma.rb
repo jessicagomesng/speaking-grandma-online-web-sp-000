@@ -10,7 +10,7 @@ end
 
 boop_beep = "HELLO"
 boob_beep = "hello"
-puts speak_to_grandma("HELLO")
+puts speak_to_grandma(boop_beep)
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
